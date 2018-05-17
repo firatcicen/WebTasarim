@@ -1,0 +1,52 @@
+div{
+	height:380px;
+	width:100%;
+}
+body{
+	background-image:url(adds.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color:black;
+	background-attachment:fixed;
+}
+.arama{
+
+}
+#menü{
+	color:white;
+	font-size:28px;
+	padding-bottom:200px;
+}
+.üstmenü{
+	background-color:black;
+	padding-left:30px;
+}
+h1{
+	color:#00FF33;
+	padding-left:370px;
+}
+.yazi{
+	color:yellow;
+	padding-top:550px;
+	padding-left:515px;
+	font-size:50px;
+}
+.resim{
+	padding-top:1px;
+}
+
+.yazi2{
+	color:red;
+	padding-left:425px;
+	font-size:50px;
+	padding-top:100px;
+	text-decoration:none;
+	vertical-align: baseline;
+}
+.footer{
+	color:white;
+	padding-left:650px;
+}
+.a{
+	padding-left:1000px;
+}
